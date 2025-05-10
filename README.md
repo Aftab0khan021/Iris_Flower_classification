@@ -1,6 +1,9 @@
 # 🌸 Iris Flower Classification
 
 A machine learning project that classifies iris flowers into **Setosa**, **Versicolor**, or **Virginica** based on petal and sepal dimensions using various algorithms.
+<p align="center">
+  <img src="https://images.app.goo.gl/BS1R9X5PT5GASCQu5" alt="Iris Classification Banner" width="700"/>
+</p>
 
 ## 📂 Dataset
 
