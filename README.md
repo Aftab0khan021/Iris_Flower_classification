@@ -36,10 +36,9 @@ Build a model that accurately predicts the iris species using supervised learnin
 
 ## 📁 Folder Structure
 
-Iris_Flower_classification
--iris_flower_classification.ipynb # Main Jupyter Notebook
--README.md # Project overview file
--requirements.txt # Python dependencies
+- Iris_flower_classification.ipynb # Main Jupyter Notebook
+- README.md # Project overview file
+- requirements.txt # Python dependencies
 
 
 ## 🖼️ Visualizations
