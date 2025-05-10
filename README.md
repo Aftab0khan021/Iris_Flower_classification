@@ -8,11 +8,13 @@ A machine learning project that classifies iris flowers into **Setosa**, **Versi
 
 ## 📂 Dataset
 
-The dataset is sourced from the UCI Machine Learning Repository and contains 150 rows of flower measurements:
+The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/uciml/iris) and contains 150 records of iris flower measurements:
 - Sepal Length
 - Sepal Width
 - Petal Length
 - Petal Width
+- Species (Setosa, Versicolor, Virginica)
+
 
 ## 📊 Objective
 
