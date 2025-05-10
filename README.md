@@ -2,8 +2,9 @@
 
 A machine learning project that classifies iris flowers into **Setosa**, **Versicolor**, or **Virginica** based on petal and sepal dimensions using various algorithms.
 <p align="center">
-  <img src="https://www.google.com/imgres?q=iris-Flower-classification&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D12AQF5vivFTAdZjQ%2Farticle-cover_image-shrink_600_2000%2Farticle-cover_image-shrink_600_2000%2F0%2F1700911428185%3Fe%3D2147483647%26v%3Dbeta%26t%3DORTz0ryrHA7aeMlRvFEH-J6Ymgg1cplspKTMn1VDs-U&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Firis-dataset-analysis-using-machine-learning-techniques-pramod-sahu-g3kgf&docid=efMiNuhw9O1GWM&tbnid=zbhm6OoQLShtaM&vet=12ahUKEwjL2c7YgpmNAxWm3jgGHZDvDY4QM3oECBIQAA..i&w=1000&h=447&hcb=2&itg=1&ved=2ahUKEwjL2c7YgpmNAxWm3jgGHZDvDY4QM3oECBIQAA" />
+  <img src="https://camo.githubusercontent.com/a606ca5baf004d747b29dcd8e852bf5d9f7cded62aee4375bcf301b6bd3ab574/68747470733a2f2f7777772e656d6265646465642d726f626f746963732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30312f497269732d446174617365742d436c617373696669636174696f6e2d31303234783336372e706e67" alt="Iris Classification Banner" width="700"/>
 </p>
+
 
 ## 📂 Dataset
 
