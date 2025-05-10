@@ -1,0 +1,8 @@
+# Requirements to run the notebook (locally or on Google Colab / Jupyter Notebook)
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
